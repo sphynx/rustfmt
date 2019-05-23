@@ -22,3 +22,5 @@
 .idea/
 .vscode/
 *~
+
+**/rusty-tags.emacs
